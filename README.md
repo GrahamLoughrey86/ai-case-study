@@ -13,9 +13,13 @@ The website launched in 2005 and not long after they acquired funding from multi
 
 ## Business Activities
 
-Kayaks mission statement reads, “KAYAK's core mission is centered around simplifying the travel planning process and providing users with the best possible options for their journey.”. Incorporating a number of metasearch engines KAYAK is able to process and determine the best prices for flights and hotels for the average travel consumer. Their utilization of these numerous engines results in them processing 6 billion queries each year. 
+KAYAK's core focus is to use meta search to reach today's demands. As their wedsite promotes:
 
-Recently KAYAK started utilizing ChatGPT to assist in search queries. Working as a virtual travel assistant, ChatGPT’s language models allow for simpler user input and still receive detailed and personalized advice on their travel plans, prices, and exploration of destinations. 
+    Today, we process billions of queries across our platforms each year for travel information, helping millions of travelers around the globe make confident decisions. With every query, KAYAK searches hundreds of travel sites to show travelers the information they need to find the right flights, hotels, rental cars and vacation packages(1).
+
+Incorporating a number of metasearch engines KAYAK is able to process and determine the best prices for flights and hotels for the average travel consumer. Their utilization of these numerous engines results in them processing 6 billion queries each year. 
+
+Recently KAYAK started utilizing ChatGPT to assist in search queries. Working as a virtual travel assistant, ChatGPT’s language models allow for simpler user input and still receive detailed and personalized advice on their travel plans, prices, and exploration of destinations(2). 
 
 ## Landscape
 
@@ -34,7 +38,9 @@ While offering many quality services to companies and the average travel consume
 
 
 ## Sources
-https://www.kayak.com/news/kayak-chatgpt/
+(1) https://www.kayak.com/about
+
+(2) https://www.kayak.com/news/kayak-chatgpt/
 
 https://www.theverge.com/2024/3/5/24090945/kayak-ai-chatbot-travel-chatgpt
 
