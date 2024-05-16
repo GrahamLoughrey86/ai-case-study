@@ -15,7 +15,7 @@ The website launched in 2005 and not long after they acquired funding from multi
 
 KAYAK's core focus is to use meta search to reach today's demands. As their wedsite promotes:
 
-    Today, we process billions of queries across our platforms each year for travel information, helping millions of travelers around the globe make confident decisions. With every query, KAYAK searches hundreds of travel sites to show travelers the information they need to find the right flights, hotels, rental cars and vacation packages(1).
+> Today, we process billions of queries across our platforms each year for travel information, helping millions of travelers around the globe make confident decisions. With every query, KAYAK searches hundreds of travel sites to show travelers the information they need to find the right flights, hotels, rental cars and vacation packages(1).
 
 Incorporating a number of metasearch engines KAYAK is able to process and determine the best prices for flights and hotels for the average travel consumer. Their utilization of these numerous engines results in them processing 6 billion queries each year. 
 
